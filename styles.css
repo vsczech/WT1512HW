@@ -1,0 +1,23 @@
+html {
+    background-color: rgba(255, 228, 196, 0.679);
+}
+h1 {
+    font-family: 'Play', sans-serif;
+    color:rgb(0, 0, 0);
+}
+h2 {
+    color:chocolate;
+}
+.bigtext {
+    font-size: 20px;
+}
+.bigbigtext {
+    font-size: 35px;
+}
+.sensation {
+    font-size: 20px;
+    color: brown;
+}
+ul {
+    list-style-type: disc;
+}
